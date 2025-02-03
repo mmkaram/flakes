@@ -3,3 +3,4 @@
 
 ## TODO
 - [ ] Make hugo flake not use flake-utils
+- [ ] Make hugo flake have nix run and nix build correspond to hugo server and hugo --minify
